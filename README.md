@@ -84,5 +84,5 @@ This project is licensed under **[MIT License](LICENSE)**.
 - **Eshwar B.**
 - **Meera R Deepu**
 
-For any inquiries, please contact [your email or GitHub profile].
+
 
